@@ -8,9 +8,9 @@ resistance, so the spaceship will continue with its current velocity until the p
 direction with the left or right arrow keys. The player can also stop immediately with the space
 bar. This will set their velocity to 0. The spaceship also has a maximum velocity.
 
-A 4-5 minute demo of the game being played and a walkthrough of the code. (not added yet)
+A 10-11 minute demo of the game being played and a walkthrough of the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/E1A_SASsACY)
 
 # Development Environment
 
